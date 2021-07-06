@@ -4,13 +4,13 @@
   
 <img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/enhance.png>
   
-Description:  
+<b>Description:</b>  
 This Python (3) file reads a password list from a text file and generates dozens of different samples for each given word, replacing letters by numbers, adding special characters and reverting the password. The idea is to leverage the effectiveness of password crackers.  
   
-Speed:  
+<b>Speed:</b>  
 You can generate variance in full ```rockyou.txt``` file in less than 10 minutes. This script also works with any given password text file.  
   
-Usage:  
+<b>Usage:</b>  
   
 ```--f```  path of input file.txt (password dictionary)  
 ```--d```  path of output directory 
