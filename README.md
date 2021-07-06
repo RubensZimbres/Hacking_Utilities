@@ -10,8 +10,8 @@ You can generate variance in rockyou.txt file in less than 10 minutes
   
 Usage:  
   
---f  path of input file.txt (password dictionary)  
---d  path of output directory 
+```--f```  path of input file.txt (password dictionary)  
+```--d```  path of output directory 
 
   
 ```
