@@ -22,7 +22,7 @@ wget https://raw.githubusercontent.com/RubensZimbres/Hacking_Utilities/main/pass
 python passvar.py --f /path_of_input_file/rockyou.txt --d /path_of_directory_output
 ```  
   
-Download of enriched rockyou.txt compressed (1.2 GB - 59 files):  
+Download of enriched rockyou.txt (compressed 1.2 GB - 59 files):  
 
 <a href="https://drive.google.com/file/d/1ivEzir7FY3_LcPXwE7rNxEJ9xsFLmmwE/view?usp=sharing">enriched_rockyou.txt</a>
 
