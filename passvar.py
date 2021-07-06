@@ -13,6 +13,7 @@ outcome=[]
 with open(args['file'],'r', encoding="latin-1") as f:
     my_list = list(f)
     my_list = [x.rstrip() for x in my_list] 
+    print("[+] Length of input password dictionary",len(my_list),'\n')
     for word in my_list:
         try:
             x+=1
@@ -85,9 +86,14 @@ with open(args['file'],'r', encoding="latin-1") as f:
             
         except:
             pass
+print("[+] Length of output password dictionary",len(outcome),'\n')
+
+print("[+] Saving output . . .",'\n')
 
 n=14000000  ## Number of lines of each txt file generated
 for i in range(0, len(outcome), n):
     with open(args['output-dir']+"/"+"password_improved_{}.txt".format(int(i/n)), 'w') as f:
             f.write("\n".join(map(str, outcome[i:i + n]
         )))
+
+print("[+] Variance generation COMPLETED !",'\n')
