@@ -15,6 +15,8 @@ Usage:
 
   
 ```
+wget https://raw.githubusercontent.com/RubensZimbres/Hacking_Utilities/main/passvar.py  
+
 python passvar.py --f /path_of_input_file/rockyou.txt --d /path_of_directory_output
 ```  
   
