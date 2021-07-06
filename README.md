@@ -18,6 +18,6 @@ Usage:
 python passvar.py --f /path_of_input_file/rockyou.txt --d /path_of_directory_output
 ```  
   
-Download of enriched rockyou.txt:  
+Download of enriched rockyou.txt compressed (1.2 GB):  
 
 https://drive.google.com/file/d/1ivEzir7FY3_LcPXwE7rNxEJ9xsFLmmwE/view?usp=sharing
