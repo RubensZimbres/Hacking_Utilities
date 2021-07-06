@@ -1,5 +1,5 @@
 # Hacking Utilities  
-
+<hr>
 <b>1. Generator of Password Variance</b>  
   
 <img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/output.png>
@@ -27,4 +27,6 @@ python passvar.py --f /path_of_input_file/rockyou.txt --d /path_of_directory_out
 Download of enriched ```rockyou.txt``` (compressed 1.2 GB - 59 files):  
 
 <a href="https://drive.google.com/file/d/1ivEzir7FY3_LcPXwE7rNxEJ9xsFLmmwE/view?usp=sharing">enriched_rockyou.txt</a>
-
+<hr>
+<b>About me</b>  
+I'm a Senior Data Scientist in Brazil and interested in ethical hacking, pursuing my PNPT Certification and loving this whole hacking thing.
