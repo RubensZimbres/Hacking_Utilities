@@ -5,7 +5,7 @@
 <img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/output.png>
   
 <b>Description:</b>  
-This <b>Python3</b> file enhance vocabulary for password crackers. It reads a password list from a text file and generates dozens of different samples for each given word, replacing letters by numbers, adding special characters and reversing the password. The idea is to leverage the effectiveness of password crackers by adding diverse vocabulary.  
+This <b>Python3</b> file enhances vocabulary for password crackers. It reads a password list from a text file and generates dozens of different samples for each given word, replacing letters by numbers, adding special characters and reversing the password. The idea is to leverage the effectiveness of password crackers by adding diverse vocabulary.  
   
 <b>Speed:</b>  
 You can generate variance in full ```rockyou.txt``` file in less than 10 minutes in a 32 vCPUs, 120 GB RAM machine in the cloud. Machines with less than 32 GB RAM may freeze with more than 1 million rows. Do it outside Kali Linux. 
