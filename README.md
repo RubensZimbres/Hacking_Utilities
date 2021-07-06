@@ -30,4 +30,4 @@ Download of enriched ```rockyou.txt``` (compressed 1.2 GB - 59 files):
 <hr>
 <b>About me</b>  
   
-I'm a Senior Data Scientist in Brazil and interested in ethical hacking, pursuing my PNPT Certification and loving this whole hacking thing.
+I'm a Senior Data Scientist in Brazil, working with Machine Learning, Deep Learning, Natural Language Processing and Computer Vision. I'm interested in ethical hacking, pursuing my PNPT Certification and loving this whole hacking thing.
