@@ -89,7 +89,7 @@ try:
             except:
                 pass
 except:
-    print(colored(255,0,0,"[X]  Run the command using: python3 passvar.py bla bla bla"))
+    print(colored(255,0,0,"[X]  Run the command using: python3 passvar.py . . . "))
     print("\n")
     sys.exit(1)
 
