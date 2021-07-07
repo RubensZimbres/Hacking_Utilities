@@ -2,7 +2,7 @@
 <hr>
 <b>1. Generator of Password Variance</b>  
   
-<img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/output.png>
+<img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/screen.png>
   
 <b>Description:</b>  
 This <b>Python3</b> file enhances vocabulary for password crackers. It reads a password list from a text file and generates dozens of different samples for each given word, replacing letters by numbers, adding special characters and reversing the password. The idea is to leverage the effectiveness of password crackers by adding diverse vocabulary.  
