@@ -21,7 +21,9 @@ This script works with any given password text file.
 ```
 wget https://raw.githubusercontent.com/RubensZimbres/Hacking_Utilities/main/passvar.py  
 
-python3 passvar.py --f /path_of_input_file/rockyou.txt --d /path_of_directory_output
+mkdir passwords
+
+python3 passvar.py --f /path_of_input_file/rockyou.txt --d ./passwords
 ```  
   
 Download of enriched ```rockyou.txt``` (compressed 1.2 GB - 59 files):  
