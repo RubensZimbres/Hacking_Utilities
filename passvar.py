@@ -1,5 +1,6 @@
 import argparse
 import sys
+from collections import OrderedDict
 
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--f', dest='file', type=str, default=0, help='Path of input file')
@@ -55,7 +56,7 @@ try:
                 outcome.append(word.title()+'-')
                 outcome.append(word.title()+'%')
 
-                word1 = word[::-1]
+                word1 = word[::-1]     #### REVERSE WORD
                 outcome.append('+'+word1)
                 outcome.append('!'+word1)
                 outcome.append('&'+word1)
@@ -96,7 +97,11 @@ except:
 
 print(colored(255,165,0,"[+] Length of enriched password dictionary:"),colored(255,165,0,len(outcome)),'\n')
 
+outcome=list(OrderedDict.fromkeys(outcome) ## REMOVE DUPLICATES
+
+
 print(colored(255,165,0,"[+] Saving output . . ."),'\n')
+
 
 n=14000000  ## Number of lines of each txt file generated
 for i in range(0, len(outcome), n):
