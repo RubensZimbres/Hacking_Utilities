@@ -29,6 +29,8 @@ with open(args['file'],'r', encoding="latin-1") as f:
                 print(x)
             #print(word)
             #print(word[::-1])
+            outcome.append(person.lower())
+            outcome.append(person.title())
             outcome.append(person.lower()+word.replace("o","0"))
             outcome.append(person.lower()+word.replace("i","1"))
             outcome.append(person.lower()+word.replace("z","2"))
