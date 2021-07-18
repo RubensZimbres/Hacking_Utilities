@@ -35,7 +35,7 @@ Download of enriched ```rockyou.txt``` (compressed 1.2 GB - 59 files):
   
 # 2.OSINT Tools
   
-This piece of Python code calls Google Cloud Vision API and returns text in images/pictures, web pages that refer to that image, labels (objects) and landmarks, sometimes including geolocation. Get your new Google Cloud account, 300 USD in credits and activate the Vision API.Then, ```gcloud init``` 
+This piece of Python code calls Google Cloud Vision API and returns text in images/pictures, web pages that refer to that image, labels (objects) and landmarks, sometimes including geolocation. Set up a Google Cloud account and activate the Vision API.Then, ```gcloud init```  and run the Python code.
   
 <hr>  
   
