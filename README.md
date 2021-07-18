@@ -1,7 +1,6 @@
 # Hacking Utilities  
-<hr>  
-<hr>  
-# 1. Generator of Password Variance  
+<hr>    
+# 1.Generator of Password Variance  
   
 <img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/screen.png>
   
@@ -38,7 +37,6 @@ Download of enriched ```rockyou.txt``` (compressed 1.2 GB - 59 files):
 This piece of Python code calls Google Cloud Vision API and returns text in images/pictures, web pages that refer o that image, labels (objects) and landmarks, sometimes including geolocation. Get your new Google Cloud account, 300 USD in credits and activate the Vision API.  
   
 <hr>  
-<hr>  
   
 # 3.Password Generator for People of interest  
   
@@ -53,8 +51,8 @@ This script works with any given password text file.
 <b>Usage:</b>  
   
 ```--f  path of input file.txt (password dictionary)```  
-```--d  path of output directory ```
-```--i  first name of person of interest ```
+```--d  path of output directory ```  
+```--i  first name of person of interest ```  
 
   
 ```
@@ -64,7 +62,6 @@ mkdir passwords
 
 python3 passvar_person.py --f /path_of_input_file/rockyou.txt --d ./passwords --i Anna
 ```  
-<hr>  
 <hr>  
 <b>About me</b>    
    
