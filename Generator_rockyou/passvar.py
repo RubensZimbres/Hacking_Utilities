@@ -97,7 +97,7 @@ except:
 
 print(colored(255,165,0,"[+] Length of enriched password dictionary:"),colored(255,165,0,len(outcome)),'\n')
 
-outcome=list(OrderedDict.fromkeys(outcome) ## REMOVE DUPLICATES
+outcome=list(OrderedDict.fromkeys(outcome)) ## REMOVE DUPLICATES
 
 
 print(colored(255,165,0,"[+] Saving output . . ."),'\n')
