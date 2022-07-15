@@ -64,8 +64,6 @@ mkdir passwords
 python3 passvar_person.py --f /path_of_input_file/rockyou.txt --d ./passwords --i Anna
 ```  
   
-<img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/Usernames/username.png>
-  
 <hr>  
   
 # 3.Usename Generator for People of Interest  
@@ -89,6 +87,9 @@ wget https://raw.githubusercontent.com/RubensZimbres/Hacking_Utilities/main/User
 
 python3 username.py --o /home/path_of_output_file/Documents --n Sarah --s Connor --d www.tesla.com
 ```  
+  
+<img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/Usernames/username.png>
+  
 <hr>  
   
 <b>About me</b>    
