@@ -1,4 +1,4 @@
-# Hacking Utilities  
+# Ethical Hacking and Pentest Utilities  
 <hr>   
   
 # 1.Generator of Password Variance  
