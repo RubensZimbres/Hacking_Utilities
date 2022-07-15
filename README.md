@@ -94,4 +94,4 @@ python3 username.py --o /home/path_of_output_file/Documents --n Sarah --s Connor
   
 <b>About me</b>    
    
-I'm a Senior Data Scientist in Brazil, Google Developer Expert in Machine Learning and Google Cloud. I'm interested in ethical hacking, pursuing my PNPT Certification and loving this whole hacking thing.
+I'm a Senior Data Scientist in Brazil, Google Developer Expert in Machine Learning and Google Cloud. I'm interested in ethical hacking, pursuing my PNPT Certification at TCM Security.
