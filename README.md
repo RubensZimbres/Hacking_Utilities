@@ -39,7 +39,7 @@ This piece of Python code calls Google Cloud Vision API and returns text in imag
   
 <hr>  
   
-# 3.Password Generator for People of interest  
+# 3.Password Generator for People of Interest  
   
 <b>Description:</b>  
 This <b>Python3</b> file enhances vocabulary for password crackers, including the person of interest name in the rockyou.txt password list.  
@@ -64,6 +64,30 @@ mkdir passwords
 python3 passvar_person.py --f /path_of_input_file/rockyou.txt --d ./passwords --i Anna
 ```  
 <hr>  
+  
+# 3.Usename Generator for People of Interest  
+  
+<b>Description:</b>  
+This <b>Python3</b> file enhances vocabulary for usernames, including the person of interest name, surname and business domain.  
+  
+<b>Speed:</b>  
+You can generate 700 usernames in less than 2 seconds. Can be used inside Kali Linux. 
+  
+<b>Usage:</b>  
+  
+```--o  path of output directory ```  
+```--n  first name of person of interest ```  
+```--s  last name of person of interest ```  
+```--d  business domain ```  
+
+  
+```
+wget https://raw.githubusercontent.com/RubensZimbres/Hacking_Utilities/main/Usernames/usernames.py 
+
+python3 username.py --o /home/path_of_output_file/Documents --n Sarah --s Connor --d www.tesla.com
+```  
+<hr>  
+  
 <b>About me</b>    
    
-I'm a Senior Data Scientist in Brazil, working with Machine Learning, Deep Learning, Natural Language Processing and Computer Vision. I'm interested in ethical hacking, pursuing my PNPT Certification and loving this whole hacking thing.
+I'm a Senior Data Scientist in Brazil, Google Developer Expert in Machine Learning and Google Cloud. I'm interested in ethical hacking, pursuing my PNPT Certification and loving this whole hacking thing.
