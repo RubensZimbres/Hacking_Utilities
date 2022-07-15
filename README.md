@@ -29,7 +29,7 @@ python3 passvar.py --f /path_of_input_file/rockyou.txt --d ./passwords
   
 Download of enriched ```rockyou.txt``` (compressed 1.2 GB - 59 files):  
 
-<a href="https://drive.google.com/file/d/1ivEzir7FY3_LcPXwE7rNxEJ9xsFLmmwE/view?usp=sharing">enriched_rockyou.txt</a>  
+<a href="https://drive.google.com/file/d/19-7XVAtvdIM0IFs59cAgT_gDdoCz2Lll/view?usp=sharing">enriched_rockyou.txt</a>  
   
 <img src=https://github.com/RubensZimbres/Hacking_Utilities/blob/main/rockyou.png>  
   
