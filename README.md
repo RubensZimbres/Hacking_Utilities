@@ -66,7 +66,7 @@ python3 passvar_person.py --f /path_of_input_file/rockyou.txt --d ./passwords --
   
 <hr>  
   
-# 3.Username Generator for People of Interest  
+# 4.Username Generator for People of Interest  
   
 <b>Description:</b>  
 This <b>Python3</b> file enhances vocabulary for usernames, including the person of interest name, surname and business domain.  
