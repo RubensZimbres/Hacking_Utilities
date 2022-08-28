@@ -2,8 +2,6 @@ import argparse
 from typing import OrderedDict
 from collections import OrderedDict
 import numpy as np
-from wandb import sagemaker_auth
-
 
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--o', dest='output-dir', type=str, default=0, help='Full path of output directory')
