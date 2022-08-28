@@ -2,6 +2,11 @@ import argparse
 from typing import OrderedDict
 from collections import OrderedDict
 
+import pyfiglet
+  
+result = pyfiglet.figlet_format("PassGen - Interest")
+print(result)
+
 
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--f', dest='file', type=str, default=0, help='Full path of input file')
