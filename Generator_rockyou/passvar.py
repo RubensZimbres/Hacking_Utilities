@@ -2,6 +2,11 @@ import argparse
 import sys
 from collections import OrderedDict
 
+import pyfiglet
+  
+result = pyfiglet.figlet_format("Password Generator")
+print(result)
+
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--f', dest='file', type=str, default=0, help='Path of input file')
 parser.add_argument('--d', dest='output-dir', type=str, default=0, help='Path of output directory')
