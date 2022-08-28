@@ -3,6 +3,11 @@ from typing import OrderedDict
 from collections import OrderedDict
 import numpy as np
 
+import pyfiglet
+  
+result = pyfiglet.figlet_format("U - Gen")
+print(result)
+
 parser = argparse.ArgumentParser(description='')
 parser.add_argument('--o', dest='output-dir', type=str, default=0, help='Full path of output directory')
 parser.add_argument('--n', dest='name', type=str, default=0, help='First name of person of interest')
